@@ -1,7 +1,4 @@
-# hkdf-LinaAngelinaG
-# hkdf-LinaAngelinaG
-
-
+# hkdf-LinaAngelinaG  
 
 
 В качестве исходных данных для HKDF была выбрана комбинация данных о ozone и о pressure

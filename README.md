@@ -3,23 +3,20 @@
 
 
 Гистограммы для первичных данных о погоде
+<img width="391" alt="Снимок экрана 2022-04-20 в 23 19 18" src="https://user-images.githubusercontent.com/61655484/171038897-198c2d15-9437-4979-8e7d-e6acb0ef2d81.png">
 
 
 В качестве исходных данных для HKDF была выбрана комбинация данных о ozone и о pressure
 Потому что эти данные одного порядка, но занимающие разные стороны числовой оси: для того, чтобы данные были как можно менее равномерными
-![](../../../../var/folders/p5/x857sb2n5557w9fmc365vxy00000gn/T/TemporaryItems/NSIRD_screencaptureui_i6BeuT/Снимок экрана 2022-04-20 в 22.19.54.png)
-
-![](../![](../../Desktop/Снимок экрана 2022-04-20 в 22.21.12.png)../../../var/folders/p5/x857sb2n5557w9fmc365vxy00000gn/T/TemporaryItems/NSIRD_screencaptureui_Clj14R/Снимок экрана 2022-04-20 в 22.20.12.png)
 
 Полученные данные имеют распределение:
-![](../../Desktop/Снимок экрана 2022-04-20 в 22.21.12.png)
+<img width="707" alt="Снимок экрана 2022-04-20 в 23 50 14" src="https://user-images.githubusercontent.com/61655484/171038941-322b83dd-a5b6-4920-8031-05ae3ec38ceb.png">
+
 
 Гистограмма для первых 10 битов ключей, сгенерированных с помощью HKDF
-![](../../Desktop/Снимок экрана 2022-04-20 в 22.15.46.png)
 
-Гистограмма для первых 10 битов паролей
-![](../../../../var/folders/p5/x857sb2n5557w9fmc365vxy00000gn/T/TemporaryItems/NSIRD_screencaptureui_oLl3ya/Снимок экрана 2022-04-20 в 22.03.58.png)
+<img width="810" alt="Снимок экрана 2022-04-20 в 23 37 57" src="https://user-images.githubusercontent.com/61655484/171038973-10927412-f7c8-45a4-9a86-bb5b63bf196d.png">
 
 Гистограмма для первых 10 битов, сгенерированных по паролям с помощью PBKDF2
-![](../../Desktop/Снимок экрана 2022-04-20 в 22.08.17.png)# hkdf-LinaAngelinaG
-L
+
+<img width="763" alt="Снимок экрана 2022-04-20 в 22 08 17" src="https://user-images.githubusercontent.com/61655484/171038995-f028f397-69d8-4cf8-923d-7e9c956c0edb.png">
